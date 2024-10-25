@@ -34,3 +34,4 @@ This Django REST API provides weather data for a limited number of cities.
   python manage.py runserver
   ```
 - Use the endpoints
+- If using python3 then replace python with python3 in all scripts mentioned above

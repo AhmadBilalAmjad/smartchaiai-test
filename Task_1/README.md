@@ -18,16 +18,15 @@ This is a simple weather app built using React and Vite. It fetches weather data
 ### 1. Clone the Repository
 
 ```bash
-git clone this repository url
-cd react-weather-app
+cd Task_1
 
-# Using npm
+1) # Using npm
 npm install
 
 # OR using Yarn
 yarn install
 
-# Using npm
+#2)  Using npm
 npm run dev
 
 # OR using Yarn

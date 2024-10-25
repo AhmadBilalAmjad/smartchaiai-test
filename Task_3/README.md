@@ -16,7 +16,7 @@ This Django REST API provides weather data for a limited number of cities.
 ## Usage
 
 - Clone the repository
-- cd into Task_3
+- cd into Task_3 and then weather_project
 - Create a virtual environment
   ```bash
   python -m venv venv
